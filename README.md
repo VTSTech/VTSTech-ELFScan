@@ -13,4 +13,8 @@ E-mail: veritas@vts-tech.org
 BTC 1ByfBujg9bnmk1XXY2rxY6obhqHMUNiDuP
 
 
+# Requirements: python3 -m pip install pycdlib
+
 # Usage: VTSTech-ELFScan.py "C:\ISO\Backup File.iso"
+
+Reference: https://github.com/clalancette/pycdlib
