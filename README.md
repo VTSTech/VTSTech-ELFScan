@@ -18,3 +18,5 @@ BTC 1ByfBujg9bnmk1XXY2rxY6obhqHMUNiDuP
 # Usage: VTSTech-ELFScan.py -irx "C:\ISO\Backup File.iso"
 
 Reference: https://github.com/clalancette/pycdlib
+
+Discussion: https://www.psx-place.com/threads/vtstech-elfscan-v0-0-2.26600/
