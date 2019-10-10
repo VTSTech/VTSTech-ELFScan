@@ -1,6 +1,6 @@
-<img src="https://i.gyazo.com/c8145a044c383fe6b4639d6cc91ff984.png">
+<img src="https://i.gyazo.com/750939b05435a3ad2dcabdec5e187e26.png">
 
-# VTSTech-ELFScan v0.0.1
+# VTSTech-ELFScan v0.0.2
 
 Facebook: fb.me/VTSTech
 
@@ -15,6 +15,6 @@ BTC 1ByfBujg9bnmk1XXY2rxY6obhqHMUNiDuP
 
 # Requirements: python3 -m pip install pycdlib
 
-# Usage: VTSTech-ELFScan.py "C:\ISO\Backup File.iso"
+# Usage: VTSTech-ELFScan.py -irx "C:\ISO\Backup File.iso"
 
 Reference: https://github.com/clalancette/pycdlib
